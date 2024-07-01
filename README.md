@@ -16,6 +16,6 @@ Thus, an app that could transfrom the manual nature of grouping students in a cl
 - and the local community by **producing students engaged in modern methods of teaching and technology literacy**.
 
 ## Tutorial
-<center><iframe width="840" height="473" src="https://www.youtube.com/embed/g5dtol7nWRc?si=x-zDh-riOj3GYi1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+[Click me!](https://youtu.be/g5dtol7nWRc?si=d9aURCZdcAXAhfc0)
 
 Thank you very much for watching this page! :DD 💖
