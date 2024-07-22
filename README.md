@@ -1,11 +1,11 @@
 
 ![1Fourth Sheet App Thumbnail](https://github.com/walpuerto/1Fourth-Sheet/blob/main/resources/thumbnail.png?raw=true)
-## Short Version
+## Short Description
 Purpose: 🌏 SAVE, 😊 EASE, 💡 LEARN
 
 Features: 🎲 Randomized Groupings, 📱 In-App Grading, 📝 Google Sheets Integration
 
-## Long Version
+## Long Description
 Throughout the Philippine Islands, the 100mm x 125mm parcel of the intermediate pad or most commonly known as a "one-fourth" sheet of paper is used extensively in practically most school activities, most evidently in group collaborations or projects.
 
 In a nation where the common student could not afford to use a smartphone in class, it is imperative that the school and faculty must consistently deliver quality education using their resources, without compromising the delicate situation our world is facing with its environment.
